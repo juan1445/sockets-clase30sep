@@ -1,0 +1,27 @@
+{
+  "name": "sockets-clase30sep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juan1445/sockets-clase30sep.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juan1445/sockets-clase30sep/issues"
+  },
+  "homepage": "https://github.com/juan1445/sockets-clase30sep#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
